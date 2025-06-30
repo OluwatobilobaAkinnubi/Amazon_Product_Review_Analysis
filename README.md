@@ -72,6 +72,27 @@ The Google Sheets dashboard includes;
 - ✅ Electronics has the highest **Potential Revenue**, making it a key strategic product category
 -  🌟 A few top products dominate the marketplace with **millions of reviews**, and could be used as benchmarks or promoted items
 - ❌ There is **no strong correlation** between discount % and ratings 
+- ## 🔬 Analysis Techniques Used
   
+- Pivot tables 
+- Calculated Columns
+  - Potential Revenue  
+  - Price buckets
+  - Rating Score 
+- Sorting & filtering for product-level insights  
+- Comparative analysis using charts (bar, column,scatter)
+- 
+## 🎓 What I Learned
+
+- How to perform exploratory data analysis (EDA) on real-world ecommerce data  
+- How to create structured dashboards in Google Sheets  
+- How to derive actionable insights from product metadata  
+- Importance of clean formatting, interactive visuals, and storytelling in analytics
+
+## 📁 Project Files
+
+- `Dashboard_Link.txt` – Contains link to the live Google Sheets dashboard  
+- `dashboard_screenshot.png` – Image of the completed dashboard  
+- `Amazon_Product_Review_Analysis_Readme.md` – This documentation
 
 
