@@ -99,4 +99,10 @@ The Google Sheets dashboard includes;
 
 👉 [Click here to view the Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1UCx_I3XOOxmLdpwe0kngytNN0AmqPgya/edit?usp=sharing&ouid=112817147969174798966&rtpof=true&sd=true)
 
+## 📬 Contact
+
+**Oluwatobiloba Akinnubi**  
+📧 hephzibaholuwatobiloba@gmail.com
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/oluwatobiloba-akinnubi)  
+
 
