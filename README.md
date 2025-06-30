@@ -41,4 +41,10 @@ The dataset includes **1,466 Amazon products** with 16 columns
 | review_title	      | Written feedback from customers                 |
 | review_content	    | Written feedback from customers                 |
 | img_link            | Link to the image of the product                |
-| product_link	      | Link to the product itself                       |
+| product_link	      | Link to the product itself                      |
+## 🧰 Tools Used
+- ✅ **Google Sheets**
+  - Data Cleaning & Formatting  
+  - Pivot Tables & Charts  
+  - Calculated Columns (Discounted Price, Revenue, Price Buckets)  
+  - Dashboard and summary cards
