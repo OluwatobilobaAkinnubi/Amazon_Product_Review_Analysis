@@ -46,5 +46,14 @@ The dataset includes **1,466 Amazon products** with 16 columns
 - ✅ **Google Sheets**
   - Data Cleaning & Formatting  
   - Pivot Tables & Charts  
-  - Calculated Columns (Discounted Price, Revenue, Price Buckets)  
+  - Calculated Columns (Discounted Price, Potential Revenue, Price Buckets)  
   - Dashboard and summary cards
+- ✅ **GitHub**
+  - For documentation
+## 📊 Dashboard Features
+The Google Sheets dashboard includes;
+### 🔹 KPI Cards / Summary Cards
+- 🟢 Total Number of Products  
+- 🌟 Average Product Rating  
+- 💬 Total Ratings
+- 💰 Sum of Potential Revenue
