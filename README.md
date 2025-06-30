@@ -95,4 +95,8 @@ The Google Sheets dashboard includes;
 - `dashboard_screenshot.png` – Image of the completed dashboard  
 - `Amazon_Product_Review_Analysis_Readme.md` – This documentation
 
+  ## 🔗 Live Dashboard
+
+👉 [Click here to view the Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1UCx_I3XOOxmLdpwe0kngytNN0AmqPgya/edit?usp=sharing&ouid=112817147969174798966&rtpof=true&sd=true)
+
 
