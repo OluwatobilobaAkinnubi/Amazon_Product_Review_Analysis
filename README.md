@@ -89,15 +89,13 @@ The Google Sheets dashboard includes;
 - How to derive actionable insights from product metadata  
 - Importance of clean formatting, interactive visuals, and storytelling in analytics
 
-## 📁 Project Files
-
-- `Dashboard_Link.txt` – Contains link to the live Google Sheets dashboard  
-- `dashboard_screenshot.png` – Image of the completed dashboard  
+## 📁 Project Files 
+- `Dashboard PDF` – Image of the completed dashboard  
 - `Amazon_Product_Review_Analysis_Readme.md` – This documentation
 
   ## 🔗 Live Dashboard
 
-👉 [Click here to view the Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1UCx_I3XOOxmLdpwe0kngytNN0AmqPgya/edit?usp=sharing&ouid=112817147969174798966&rtpof=true&sd=true)
+👉 [Click here to view the Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1UCx_I3XOOxmLdpwe0kngytNN0AmqPgya/edit?gid=1627746479#gid=1627746479)
 
 ## 📬 Contact
 
