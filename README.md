@@ -57,7 +57,7 @@ The Google Sheets dashboard includes;
 - 🌟 Average Product Rating  
 - 💬 Total Ratings
 - 💰 Sum of Potential Revenue
-  ### 🔹 Charts
+### 🔹 Charts
 - 📈 **Distribution of Ratings** — Column chart showing how ratings are spread  
 - 💰 **Product count by Price Bucket** — Bar chart showing the count of product by price bucket  
 - 📉 **Average Discount % by Category** — Column chart showing the average discount % by category
@@ -65,4 +65,13 @@ The Google Sheets dashboard includes;
 - 🏠 **Potential Revenue by Category** — Column chart to help identify profit-driving Products category 
 - 🔝 **Top 5 Products Category** — Column chart  
 - ⚖️ **Relationship between Ratings and Discount Percentage** — Scatter plot to check correlation
-- ## 💡 Key Business Insights
+## 💡 Key Business Insights
+- ✅ Most product categories have an average rating above **4.0**, depicting good customer satisfaction
+- ✅ Over **800 products are priced above  ₹500**, showing Amazon’s dominance in high-end customer market. Mid-range and budget friendly items exists but are smaller in comparison. This pricing structure could influence marketing strategies and sales patterns
+- ✅ Homeimprovements, Health&personalcare, Electronics and Computers&accesories
+- ✅ Electronics has the highest **Potential Revenue**, making it a key strategic product category
+-  🌟 A few top products dominate the marketplace with **millions of reviews**, and could be used as benchmarks or promoted items
+- ❌ There is **no strong correlation** between discount % and ratings 
+  
+
+
