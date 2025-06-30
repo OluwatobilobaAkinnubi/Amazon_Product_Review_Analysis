@@ -57,3 +57,12 @@ The Google Sheets dashboard includes;
 - 🌟 Average Product Rating  
 - 💬 Total Ratings
 - 💰 Sum of Potential Revenue
+  ### 🔹 Charts
+- 📈 **Distribution of Ratings** — Column chart showing how ratings are spread  
+- 💰 **Product count by Price Bucket** — Bar chart showing the count of product by price bucket  
+- 📉 **Average Discount % by Category** — Column chart showing the average discount % by category
+- 🧾 **Actual vs Discounted Price Comparison** — Column chart 
+- 🏠 **Potential Revenue by Category** — Column chart to help identify profit-driving Products category 
+- 🔝 **Top 5 Products Category** — Column chart  
+- ⚖️ **Relationship between Ratings and Discount Percentage** — Scatter plot to check correlation
+- ## 💡 Key Business Insights
