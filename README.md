@@ -22,3 +22,23 @@ As a Junior Data analyst at **RetailTech Insights**, my task was to analyse prod
 - How many products have fewer than 1,000 reviews? 
 - Which categories have products with the highest discounts? 
 - Identify the top 5 products in terms of rating and number of reviews combined. 
+## 📂 Dataset Overview
+The dataset includes **1,466 Amazon products** with 16 columns
+| Column Name         | Description                                     |
+|---------------------|-------------------------------------------------|
+| product_ID          | A unique code to each product category          |
+| category            | Product category (e.g., Home, Electronics)      |
+| product_name        | Name of product                                 |
+| discounted_price    | Dicounted price of Product                      |
+| actual_price	      | Original price of products                      |
+| discount_percentage | Percentage discount offered                     |
+| rating	            | Customer rating                                 | 
+| rating_count 	      | Count of customers who rated the product        |
+| about_product	      | details about the product                       |
+| user_id	            | Customers id                                    |
+| user_name	          | Name of customer                                |
+| review_id	          | A unique code attached to each review           |
+| review_title	      | Written feedback from customers                 |
+| review_content	    | Written feedback from customers                 |
+| img_link            | link to the image of the product                |
+| product_link	      | lin to the product itself                       |
