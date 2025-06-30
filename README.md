@@ -34,11 +34,11 @@ The dataset includes **1,466 Amazon products** with 16 columns
 | discount_percentage | Percentage discount offered                     |
 | rating	            | Customer rating                                 | 
 | rating_count 	      | Count of customers who rated the product        |
-| about_product	      | details about the product                       |
+| about_product	      | Details about the product                       |
 | user_id	            | Customers id                                    |
 | user_name	          | Name of customer                                |
 | review_id	          | A unique code attached to each review           |
 | review_title	      | Written feedback from customers                 |
 | review_content	    | Written feedback from customers                 |
-| img_link            | link to the image of the product                |
-| product_link	      | lin to the product itself                       |
+| img_link            | Link to the image of the product                |
+| product_link	      | Link to the product itself                       |
