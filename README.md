@@ -100,7 +100,8 @@ The Google Sheets dashboard includes;
 ## 📬 Contact
 
 **Oluwatobiloba Akinnubi**  
-📧 hephzibaholuwatobiloba@gmail.com
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/oluwatobiloba-akinnubi)  
+ 📧 hephzibaholuwatobiloba@gmail.com
+
+ 🔗 [LinkedIn Profile](https://www.linkedin.com/in/oluwatobiloba-akinnubi)  
 
 
