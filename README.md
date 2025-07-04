@@ -1,4 +1,4 @@
-# amazon_product_review_analysis
+# Amazon_Product_Review_Analysis
 A Google Sheets data analysis project exploring Amazon product reviews, pricing, discounts and ratings across 1465 products. Includes a dashboard with Insights 
 # 📦 Amazon Product Review Analysis
 This project was developed as a part of Digital Skill Up (DSA) Data analysis Capstone, focused on helping Amazon sellers understand the trends in products pricing, discounts, ratings, price buckets and potential revenue. Using a dataset of 1,465 Amazon product listings, the goal was to generate business insights using Google sheets.
@@ -23,7 +23,7 @@ As a Junior Data analyst at **RetailTech Insights**, my task was to analyse prod
 - Which categories have products with the highest discounts? 
 - Identify the top 5 products in terms of rating and number of reviews combined. 
 ## 📂 Dataset Overview
-The dataset includes **1,466 Amazon products** with 16 columns
+The dataset includes **1,465 Amazon products** with 16 columns
 | Column Name         | Description                                     |
 |---------------------|-------------------------------------------------|
 | product_ID          | A unique code to each product category          |
